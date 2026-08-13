@@ -1,1 +1,1 @@
-
+A 4-bit Arithmetic Logic Unit (ALU) is a digital circuit that performs basic arithmetic and logic operations on two 4-bit binary numbers. It serves as the core building block for small processors and calculators, using control signals to select which operation to run and outputting a 4-bit result 
