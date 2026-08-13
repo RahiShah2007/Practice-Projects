@@ -1,1 +1,1 @@
-
+A universal shift register is a flexible digital memory circuit that can store data, shift bits to the left or right, and load new data all at once in parallel. It combines unidirectional, bidirectional, and parallel-load features into a single device managed by mode selection control lines.
