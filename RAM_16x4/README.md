@@ -1,1 +1,1 @@
-
+A 16x4 RAM is a small digital memory layout that stores 16 words where each word is 4 bits wide, giving a total storage capacity of 64 bits. It is commonly used as an introductory design example in electronics
