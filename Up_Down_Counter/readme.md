@@ -1,1 +1,1 @@
-
+An up-down counter frequency divider is a sequential digital circuit that bidirectional counts input clock pulses (either incrementing or decrementing based on a mode control signal) while simultaneously scaling down the input clock frequency at its individual flip-flop or MSB output stages by a factor of \(2^{n}\) (where n is the bit length).
