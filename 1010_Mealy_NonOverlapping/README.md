@@ -1,1 +1,1 @@
-
+A Mealy non-overlapping sequence detector is a finite state machine where the output depends on both the current state and the incoming input. Once a target bit pattern is completely identified, the circuit resets completely and does not reuse any bits from the detected sequence to search for the next pattern
